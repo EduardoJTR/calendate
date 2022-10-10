@@ -1,1 +1,1 @@
-from .calendar_calc.py import *
+from .calendar_calc import *

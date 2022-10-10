@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'A packege to work with dates'
 LONG_DESCRIPTION = 'Calendate is a simple python package to work with calendars and dates'
 
