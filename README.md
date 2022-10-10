@@ -93,3 +93,6 @@ Keywords you can use:
 - `%mn` (month name)
 - `%wda` (weekday abbreviated)
 - `%mna` (month name abbreviated)
+
+# Installation
+To install the calendate package, use `pip install calendate`
