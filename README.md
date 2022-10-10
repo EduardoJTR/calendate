@@ -9,6 +9,8 @@ The `Calendar` class will use `Date` objects to work with.
 
 This is how to create a `Date` and a `Calendar` object
 ```python
+from calendate import *
+
 my_date = Date('2022', '10', '07')
 my_calendar = Calendar()
 
