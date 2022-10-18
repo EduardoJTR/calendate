@@ -199,7 +199,7 @@ class Calendar:
             weekday_shift = difference_in_days % 7
 
             # Weekday_index gets bigger
-            for x in range(weekday_shift):  # x isn't used
+            for _ in range(weekday_shift):
                 weekday_index += 1
                 if weekday_index > 6:
                     weekday_index = 0
