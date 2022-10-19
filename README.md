@@ -97,4 +97,7 @@ Keywords you can use:
 - `%mna` (month name abbreviated)
 
 # Installation
-To install the calendate package, use `pip install calendate`
+To install the calendate package, use
+```
+pip install calendate
+```
